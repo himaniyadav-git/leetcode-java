@@ -1,5 +1,4 @@
 
-
 class arrays{
 
     public int maxArea(int[] height) {
